@@ -109,7 +109,7 @@ Mira el siguiente comando de ejemplo:
 2 + sqrt(25) - log(2)
 ```
 
-R interpreta que `sqrt(25)` es la raíz cuadrada 2, mientras que `log(2)` es el logaritmo natural de 2. Tanto `sqrt()` como `log()` son funciones de R. En términos muy básicos, una función es un procedimiento que se puede esquematizar de la siguiente forma:
+R interpreta que `sqrt(25)` es la raíz cuadrada de 25, mientras que `log(2)` es el logaritmo natural de 2. Tanto `sqrt()` como `log()` son funciones de R. En términos muy básicos, una función es un procedimiento que se puede esquematizar de la siguiente forma:
 
 ```{r rbas-funs, echo=FALSE, fig.cap="Las funciones nos permitirán hacer las transformaciones necesarias a nuestros datos. Adaptada de [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Function_machine2.svg)."}
 knitr::include_graphics("00-images/rbas-funs.png")
